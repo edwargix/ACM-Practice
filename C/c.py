@@ -1,3 +1,4 @@
+#Kind of janky, but it works to the best of my knowledge
 import sys
 
 for i in sys.stdin:
